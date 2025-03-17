@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GargiBalamwar
 - 👀 I’m interested in learning new technical things
-- 🌱 I’m currently learning coading, web development and many more 
+- 🌱 I’m currently learning coding, web development, and many more 
 
 
 <!---
